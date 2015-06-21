@@ -3,6 +3,6 @@ This is the software that was described in the paper "Using your Ear to See" sub
 Steps to install
 Step 1) Extract ImagesParserNet.zip
 Step 2) Replace the PopImagesParserNET.exe with the existing one in the .zip file to get the most recent working software application
-Note: The software as designed only works with Google Mail (GMAIL)
+Step 3) You will want to run the PopImagesParserNET (type application) (152 KB)
 Note: Must have username and password credentials for GMAIL
 Contact: clark376 at gmail dot com with questions, comments, or concerns
